@@ -1,8 +1,10 @@
 <!-- Heading -->
-<h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24px> Hello there!
+<h3 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> Hello there!</h3>
 
-#### **A Developer by day ☼ and a Blockchain Enthusiast by night ☾**
+<p><strong>A Developer by day ☼ and a Blockchain Enthusiast by night ☾</strong></p>
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.sol`
-- 🌍 I'm mostly active within the **blockchain ecosystem**
-- 💬 `ping` me about **protocols**, **development**, **design thinking**
+<ul>
+  <li>⚙️ I use daily: <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.sol</code></li>
+  <li>🌍 I'm mostly active within the <strong>blockchain ecosystem</strong></li>
+  <li>💬 <code>ping</code> me about <strong>protocols</strong>, <strong>development</strong>, <strong>design thinking</strong></li>
+</ul>
