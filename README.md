@@ -4,7 +4,7 @@
 <p><strong>A Developer by day ☼ and a Blockchain Enthusiast by night ☾</strong></p>
 
 <ul>
-  <li>⚙️ I use daily: <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.sol</code></li>
+  <li>⚙️ I use daily: <code>.jsx</code>, <code>.html</code>, <code>.css</code>, <code>.sol</code></li>
   <li>🌍 I'm mostly active within the <strong>blockchain ecosystem</strong></li>
   <li>💬 <code>ping</code> me about <strong>protocols</strong>, <strong>development</strong>, <strong>design thinking</strong></li>
 </ul>
